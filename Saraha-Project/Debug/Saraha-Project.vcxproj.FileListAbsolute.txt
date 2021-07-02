@@ -1,0 +1,5 @@
+C:\Users\Pc\source\repos\Saraha-Project\Saraha-Project\Debug\Saraha-Project.vcxproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\Saraha-Project\Saraha-Project\Debug\SarahaProject.MyForm.resources
+C:\Users\Pc\source\repos\Saraha-Project\Saraha-Project\Debug\SarahaProject.MyForm1.resources
+C:\Users\Pc\source\repos\Saraha-Project\Saraha-Project\Debug\SarahaProject.SignUpForm.resources
+C:\Users\Pc\source\repos\Saraha-Project\Saraha-Project\Debug\Saraha-Project.vcxproj.GenerateResource.cache
